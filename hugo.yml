@@ -52,15 +52,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "favicon.jpg"
-    favicon16x16: "favicon.jpg"
-    favicon32x32: "favicon.jpg"
-    apple_touch_icon: "favicon.jpg"
-    safari_pinned_tab: "favicon.jpg"
+    favicon: "favicon.png"
+    favicon16x16: "favicon.png"
+    favicon32x32: "favicon.png"
+    apple_touch_icon: "favicon.png"
+    safari_pinned_tab: "favicon.png"
 
   label:
     text: "Pectics Blog"
-    icon: favicon.jpg
+    icon: favicon.png
     iconHeight: 35
 
   # profile-mode
@@ -68,7 +68,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Pectics
     subtitle: "无求一生光辉，唯望斗志不断。"
-    imageUrl: favicon.jpg
+    imageUrl: favicon.png
     imageWidth: 120
     imageHeight: 120
     imageTitle: Pectics
